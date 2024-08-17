@@ -21,6 +21,6 @@ System.out.println("excute createContactTest");
 public void modifyContactTest()
 {
 System.out.println("excute modifyContactTest");
-//change
+//chang
 }
 }
